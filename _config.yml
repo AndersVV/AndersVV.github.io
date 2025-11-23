@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Anders Villwock"
   pronouns         : "He/They"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "2nd year UW-Madison Masters student studying Data Science in Human Behavior"
   location         : "Madison WI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "avvillwo[dot]gmail[dot]com" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -41,16 +41,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Anders Villwock
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Anders Villwock"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -91,7 +91,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

@@ -91,7 +91,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -212,9 +212,6 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
     output: false
     permalink: /:collection/:path/
   
